@@ -35,14 +35,6 @@ The Jenkins pipeline is configured directly in the Jenkins UI and includes the f
 8. **Deployment** – ArgoCD pulls Kubernetes manifests and deploys to cluster  
 9. **Monitoring** – Prometheus collects metrics, Grafana visualizes logs  
 
-## 📂 Project Structure
-```
-bus-booking_V1/
-└── manifests/
-    ├── deployment.yaml
-    └── service.yaml
-```
-
 ## 🤖 AI-Generated Source Code
 The application code used in this project was generated using AI tools.  
 This enabled rapid prototyping and seamless integration into the CI/CD pipeline.
