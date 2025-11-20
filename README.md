@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🌐 End-to-End DevOps CI/CD Pipeline on AWS with Kubernetes, GitOps & Security  
 *Automated code quality, containerization, security scanning, and GitOps deployment — monitored with Prometheus & Grafana.*
 
